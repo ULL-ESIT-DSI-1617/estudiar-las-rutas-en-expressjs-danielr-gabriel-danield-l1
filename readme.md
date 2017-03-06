@@ -8,6 +8,10 @@
 
 * [Daniel Rodríguez Martín](https://alu0100886764.github.io)
 
+#Libro de la práctica
+
+* [Enlace ](https://ull-esit-dsi-1617.github.io/estudiar-las-rutas-en-expressjs-danielr-gabriel-danield-l1/)
+
 #Campus de la asignatura
 
 * [Enlace al campus virtual](https://campusvirtual.ull.es/1617/course/view.php?id=1136)
